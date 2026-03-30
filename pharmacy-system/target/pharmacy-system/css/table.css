@@ -1,0 +1,17 @@
+table{
+margin:auto;
+border-collapse:collapse;
+width:70%;
+
+}
+
+th,td{
+padding:10px;
+border:1px solid black;
+text-align:center;
+}
+
+th{
+background:#2ecc71;
+color:white;
+}
